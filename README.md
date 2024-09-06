@@ -27,3 +27,7 @@ Se quiser adicionar mais atletas ou esportes, é só editar o arquivo dados.js. 
 Contribuições:
 
 Se você é um desenvolvedor e quer ajudar a melhorar essa aplicação, fique à vontade para fazer um fork e enviar um pull request. Toda ajuda é bem-vinda!
+
+Para visualizar o projeto acesse o link: https://app.netlify.com/sites/clinquant-cobbler-97b110/overview
+
+
